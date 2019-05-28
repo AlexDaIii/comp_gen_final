@@ -1,0 +1,1 @@
+python3 extractData_expr.py --X ../Data/CCLE_Expression_Entrez_2012-09-29.gct.txt --Y ../Data/CCLE_NP24.2009_Drug_data_2015.02.24.csv --outputY ../Final_Project/data/expr_labels.csv --outputX ../Final_Project/data/expr_features.csv

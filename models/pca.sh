@@ -1,0 +1,1 @@
+python3 -W ignore models/pca.py --features data/features.csv --labels data/labels.csv --output_dir output

@@ -1,0 +1,1 @@
+python3 runner.py --run_pca --histone_features data/features.csv --histone_labels data/labels.csv --output_dir output --run_histone --run_gene --load_new --gene_features data/expr_features.csv --gene_labels data/expr_labels.csv --time

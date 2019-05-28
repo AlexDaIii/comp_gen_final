@@ -1,0 +1,1 @@
+python3 -W ignore gene.py --features data/expr_features.csv --labels data/expr_labels.csv --output_dir output --hyperparam 0 --load_new 0
